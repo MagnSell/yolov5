@@ -1,0 +1,12 @@
+names:
+- fish
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: aquarium-fish-kbfip
+  url: https://universe.roboflow.com/aquarium-fish/aquarium-fish-kbfip/dataset/1
+  version: 1
+  workspace: aquarium-fish
+test: ../test/images
+train: Aquarium-Fish-1/train/images
+val: Aquarium-Fish-1/valid/images
